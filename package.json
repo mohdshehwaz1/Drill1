@@ -1,0 +1,19 @@
+{
+  "name": "inventory",
+  "version": "1.0.0",
+  "description": "information of an inventory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohdshehwaz1/Drill1.git"
+  },
+  "author": "mohd shehwaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohdshehwaz1/Drill1/issues"
+  },
+  "homepage": "https://github.com/mohdshehwaz1/Drill1#readme"
+}
